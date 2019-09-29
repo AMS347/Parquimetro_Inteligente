@@ -45,7 +45,7 @@
           <input type="text" name="fecha_hasta" class="tcal" id="fecha_hasta" placeholder="yyyy-mm-dd">
         </td>
         <td>
-          <img class="imagen" src="../reporteria/atm.png"/>
+          <img class="imagen" src="atm.png"/>
         </td>
       </tr>
       <tr>
