@@ -10,7 +10,7 @@
   <link rel="stylesheet" type="text/css" href="tcal.css" />
   <link rel="stylesheet" type="text/css" href="estilos.css" />
   <script type="text/javascript" src="tcal.js"></script> 
-
+  <script src="jquery-3.4.1.min.js" type="text/javascript"></script>
   <!-- Latest compiled and minified JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </head>
@@ -27,7 +27,7 @@
     
 	<br></br>
 
-    <form method="POST" action="registro.php" >
+    <form method="POST" action="index.php" >
     <table>
       <tr>
         <td class="form-group">
